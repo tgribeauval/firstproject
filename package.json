@@ -1,0 +1,23 @@
+{
+  "name": "github-avatar-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tgribeauval/firstproject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tgribeauval/firstproject/issues"
+  },
+  "homepage": "https://github.com/tgribeauval/firstproject#readme",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
